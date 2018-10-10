@@ -4,12 +4,21 @@ html {
 
 body {
     height: 100%;
+    background:url"https://media.pitchfork.com/photos/5ad35aa7630ffe0c4bbe1bf0/2:1/w_790/NUP_182564_0005.JPG";
     
 }
+.header{
+    font-size:50px;
+    color:yellow;
+}
+
 a {
     text-decoration: none;
 }
-
+.navbar{
+   
+    text-align: center;
+}
 .main {
     height: 100%;
 }
